@@ -23,6 +23,18 @@
         "lng": "8.151855468750002"
       },
       "id": "F6rCN0JzEK8"
+    },
+    {
+      "cityName": "‘Uqlat as Suqur",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2026-04-02T08:01:07.066Z",
+      "notes": "",
+      "position": {
+        "lat": "25.33735728045463",
+        "lng": "42.18750000000001"
+      },
+      "id": "rfkX0YDTfxw"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
